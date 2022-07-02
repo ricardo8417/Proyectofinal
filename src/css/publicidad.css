@@ -1,0 +1,26 @@
+.publicidad {
+    margin-top: 5%;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+.publicidad h2 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.publicidad .img-restaurant {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+}
+
+.publicidad .img-restaurant p {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 8%;
+}

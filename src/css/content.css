@@ -1,0 +1,25 @@
+.contenido {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10%;
+    flex-direction: row-reverse;
+    margin-left: 6%;
+}
+
+.contenido .texto h2 {
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 15%;
+    font-size: 35px;
+    font-family: georgia;
+    font-weight: bold;
+}
+
+.contenido .texto p {
+    margin-left: 4%;
+    margin-right: 15%;
+    font-size: 18px;
+    font-family: georgia;
+    text-align: justify;
+}
